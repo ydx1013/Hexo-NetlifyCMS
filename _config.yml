@@ -6,7 +6,7 @@
 title: 瑞霖发制品有限公司
 subtitle: ''
 description: ''
-keywords:
+keywords: 假发; 真发假发; 头发; 发制品; 
 author:
 language: en
 timezone: ''
@@ -94,7 +94,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: noxmoe
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
