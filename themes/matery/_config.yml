@@ -6,10 +6,10 @@ menu:
     icon: fas fa-home
   接发专区:
     url: /
-    icon: fas fa-user-circle-o
+    icon: fas fa-bullhorn
   假发专区:
     url: /
-    icon: fas fa-caret-square-o-up
+    icon: fas fa-briefcase
   淘宝店铺:
     url: /
     icon: fas fa-shopping-basket
