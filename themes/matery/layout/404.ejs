@@ -21,7 +21,16 @@
     </div>
 </div>
 
-<script>
-    // 每天切换 banner 图.  Switch banner image every day.
-    $('.bg-cover').css('background-image', 'url(<%- theme.jsDelivr.url %><%- url_for('/medias/banner/') %>" + new Date().getDay() + '.jpg');
+<script type="text/javascript">
+	var num = 3;
+	function redirect() {
+		num--;
+		document.getElementById("num").innerHTML=num;
+		if (num < 0) {
+			document.getElementById("num").innerHTML = 0;
+			location.href = "login.html";
+		}
+	}
+	setInterval("redirect()", 1000);
+
 </script>
