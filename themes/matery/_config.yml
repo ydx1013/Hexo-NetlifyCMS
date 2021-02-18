@@ -4,6 +4,15 @@ menu:
   主页:
     url: /
     icon: fas fa-home
+  接发专区:
+    url: /
+    icon: fas fa-home
+  假发专区:
+    url: /
+    icon: fas fa-home
+  接发工具:
+    url: /
+    icon: fas fa-home
   关于我们:
     url: /about
     icon: fas fa-user-circle
