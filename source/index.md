@@ -1,7 +1,8 @@
 ---
-title: 联系我们
-type: "contact"
-layout: "contact"
+title: 公司简介
+date: 2018-09-30 17:25:30
+type: "about"
+layout: "about"
 toc: false
 ---
 
