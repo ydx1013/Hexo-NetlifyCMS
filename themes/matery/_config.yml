@@ -6,13 +6,13 @@ menu:
     icon: fas fa-home
   接发专区:
     url: /
-    icon: fas fa-home
+    icon: fas fa-user-circle-o
   假发专区:
     url: /
-    icon: fas fa-home
-  接发工具:
+    icon: fas fa-caret-square-o-up
+  淘宝店铺:
     url: /
-    icon: fas fa-home
+    icon: fas fa-shopping-basket
   关于我们:
     url: /about
     icon: fas fa-user-circle
