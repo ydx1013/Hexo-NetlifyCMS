@@ -60,7 +60,7 @@ cover:
   # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/covers.json 移动到 my-blog/source/_data/下修改配置即可
 
 # index page dream text,
-# 配置首页显示"梦想"的语句.
+# 配置首页显示"公司简介"的语句.
 dream:
   enable: true
   showTitle: true
@@ -537,9 +537,9 @@ addthis:
 
 # 打字效果副标题.
 # 如果有符号 ‘ ，请在 ’ 前面加上 \
-subtitle1:
+subtitle:
   enable: false
-  loop: true # 是否循环
+  loop: false # 是否循环
   showCursor: true # 是否显示光标
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
