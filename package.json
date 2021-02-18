@@ -35,11 +35,6 @@
     "hexo-server": "^1.0.0",
     "hexo-abbrlink": "^2.0.5",
 
-    "hexo-render-pug": "^2.0.0",
-    "hexo-generator-json-content": "^2.2.0",
-    "hexo-autonofollow": "^1.0.0",
-    "hexo-wordcount": "^6.0.1"
-
   },
   "prettier": {
     "singleQuote": true,
