@@ -1,3 +1,3 @@
 [build]
   publish = "public"
-  command = "hexo cl && hexo g && hexo d"
+  command = "hexo generate"
