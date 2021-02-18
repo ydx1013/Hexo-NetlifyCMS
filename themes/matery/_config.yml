@@ -239,16 +239,16 @@ mySkills:
     产品质量:
       background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
       percent: 80%
-    产品质量:
+    产品2:
       background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
       percent: 80%
     物流速度:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
       percent: 90%
-    产品质量:
+    产品1:
       background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
       percent: 90%
-    产品质量:
+    产品3:
       background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
       percent: 75%
 
