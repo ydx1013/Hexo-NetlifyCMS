@@ -37,7 +37,6 @@
     "hexo-server": "^1.0.0"
     "hexo-renderer-sass": "^0.4.0"
     "hexo-renderer-swig": "^1.1.0"
-    "hexo-filter-cleanup": "^1.2.2"
   },
   "prettier": {
     "singleQuote": true,

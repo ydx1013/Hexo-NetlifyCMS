@@ -92,3 +92,7 @@ hfc_favicons:
     opengraph: false
     windows: true
     yandex: false
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
