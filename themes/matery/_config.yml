@@ -4,24 +4,13 @@ menu:
   Index:
     url: /
     icon: fas fa-home
-  Tags:
-    url: /tags
-    icon: fas fa-tags
-  Categories:
-    url: /categories
-    icon: fas fa-bookmark
-  Archives:
-    url: /archives
-    icon: fas fa-archive
   About:
     url: /about
     icon: fas fa-user-circle
   Contact:
     url: /contact
     icon: fas fa-comments
-  Friends:
-    url: /friends
-    icon: fas fa-address-book
+
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
@@ -43,7 +32,7 @@ menu:
 # 站点运行开始时间.
 time:
   enable: false
-  year: 2019 # 年份
+  year: 2007 # 年份
   month: 06 # 月份
   date: 28 # 日期
   hour: 00 # 小时
