@@ -61,7 +61,7 @@ dream:
 # Whether to display the musics.
 # 是否在首页显示音乐.
 music:
-  enable: true
+  enable: false
   title: #非吸底模式有效
     enable: true
     show: 听听音乐
@@ -98,7 +98,7 @@ video:
 # Whether to display the title of the recommended posts
 # 是否显示推荐文章的标题
 recommend:
-  enable: true
+  enable: false
   showTitle: true
   useConfig: false # 是否使用配置文件, 在 _data/recommends.json 下配置推荐文章, false则会走主题配置的 top 属性
   # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/recommends.json 移动到 my-blog/source/_data/下修改配置即可
@@ -112,7 +112,7 @@ logo: /medias/logo.png
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
 # 首页 banner 中的第二个按钮的配置，包括按钮的显示名称、font awesome图标和按钮的超链接.
 indexbtn:
-  enable: true
+  enable: false
   name: Github
   icon: fab fa-github-alt
   url: https://github.com/blinkfox/hexo-theme-matery
@@ -128,7 +128,7 @@ socialLink:
   qq: 1181062873
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
-  rss: true # true、false
+  rss: false # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -149,7 +149,7 @@ code:
 
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
-  enable: true
+  enable: false
   title: 你的赏识是我前进的动力
   wechat: /medias/reward/wechat.png
   alipay: /medias/reward/alipay.jpg
@@ -158,7 +158,7 @@ reward:
 # minCharNumber: Approve copyright information by copying at least how many characters.
 # 是否激活复制文章时追加博客和作者的版权信息.
 copyright:
-  enable: false
+  enable: true
   minCharNumber: 120 # 至少复制多少个字符就追加版权信息.
   description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
 
@@ -187,7 +187,7 @@ postInfo:
 # Whether to activate the 'love' effect of clicking on the page.
 # 是否激活点击页面的'爱心'效果，默认激活.
 clicklove:
-  enable: true
+  enable: false
 
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
@@ -255,7 +255,7 @@ myGallery:
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件
-postCalendar: true
+postCalendar: false
 
 # 不建议使用gittalk,gitment这样权限过高的oauth app,因为它们能够 读写 授权者 所有的公共仓库 ，也就是说拿到你的授权 Token 的人，可以将你的 GitHub 公共仓库删空（这是github权限分的不够细的锅），如果恶意攻击者想获取使用者的 AccessToken，只需要在代码中加上一个 ajax 请求即可。原贴地址:https://www.v2ex.com/t/535608。建议大家看完。（我没有在用gittalk/gitment的网站上评论过，但根据v2ex网友的提示，如果网站自行修改了 gitalk.js 脚本 或者反代了 github api，就很容易拿到你的 Token ）
 
@@ -367,7 +367,7 @@ verifyPassword:
 busuanziStatistics:
   enable: true
   totalTraffic: true # 总访问量
-  totalNumberOfvisitors: true # 总人次
+  totalNumberOfvisitors: true # 人
 
 # Add google analytics configuration
 # 添加 Google Analytics 配置
@@ -536,8 +536,8 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 从来没有真正的绝境, 只有心灵的迷途
-    - Never really desperate, only the lost of the soul
+    - 瑞霖发制品责任有限公司欢迎您的光临！！！
+    - Welcome to ruilin company！！
 
 # 手机二级菜单.
 navMenu:
