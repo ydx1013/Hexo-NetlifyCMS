@@ -1,12 +1,14 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+# theme
+theme: aircv
 
 # Site
 title: 瑞霖发制品有限公司
 subtitle: ''
 description: ''
-keywords: 假发; 真发假发; 头发; 发制品;  瑞霖; 头发; 发制品; 
+keywords: 假发; 真发假发; 头发; 发制品;  瑞霖; 头发; 发; 
 author:
 language: en
 timezone: ''
@@ -94,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
