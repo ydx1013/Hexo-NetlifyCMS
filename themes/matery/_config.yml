@@ -14,10 +14,10 @@ menu:
     url: /
     icon: fas fa-shopping-basket
   关于我们:
-    url: /about
+    url: /
     icon: fas fa-user-circle
   联系我们:
-    url: /contact
+    url: /
     icon: fas fa-comments
 
   # 二级菜单写法如下
