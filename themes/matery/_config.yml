@@ -11,7 +11,7 @@ menu:
     url: /
     icon: fas fa-briefcase
   淘宝店铺:
-    url: /
+    url: taobao.com
     icon: fas fa-shopping-basket
   关于我们:
     url: /about
@@ -201,9 +201,9 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/avatar.jpg
-  career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  avatar: /medias/logo.jpg
+  career: 瑞霖发制品有限公司
+  introduction: 瑞霖发制品有限公司成立于2007年，公司专业生产中高档真人发和各种假发头套及配件，自主经营品牌，是集生产、销售为一体的品牌假发商贸出口公司，公司自成立以来，坚持质量第一、客户至上的宗旨，以品牌化管理为起点，以专业生产真人发接发为根基，凭借中国假发的优越平台，树立同行业的高起点，打造世界驰名商标，力求成为假发接发潮流领导者和质量的缔造者。
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
@@ -233,22 +233,22 @@ myProjects:
 mySkills:
   enable: true
   data:
-    Java:
+    产品种类:
       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
-      percent: 85%
-    JavaScript:
+      percent: 85
+    产品质量:
       background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
       percent: 80%
-    HTML5:
+    产品质量:
       background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
       percent: 80%
-    CSS:
+    物流速度:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
-      percent: 70%
-    SQL:
+      percent: 90%
+    产品质量:
       background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
       percent: 90%
-    程序设计:
+    产品质量:
       background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
       percent: 75%
 
@@ -256,7 +256,7 @@ mySkills:
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的相册"图片，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myGallery:
-  enable: true
+  enable: flase
   data:
     - /medias/featureimages/0.jpg
     - /medias/featureimages/1.jpg
