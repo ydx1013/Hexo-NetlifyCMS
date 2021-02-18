@@ -34,9 +34,9 @@
     "hexo-autonofollow": "^1.0.0",
     "hexo-pdf": "^1.1.1",
     "hexo-generator-json-content": "^2.2.0",
+    "hexo-generator-search": "^2.4.1",
     "hexo-server": "^1.0.0"
     
-
   },
   "prettier": {
     "singleQuote": true,
