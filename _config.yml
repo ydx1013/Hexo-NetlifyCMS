@@ -103,14 +103,10 @@ ignore:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
-#同步到七牛
-
+#压缩文件
+all_minifier: true
 #搜索选项
 search:
   path: search.xml
   field: all
   content: true
-#懒加载
-lazy_load:
-  enable: true
-  all: true
