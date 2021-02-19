@@ -104,7 +104,7 @@ ignore:
 deploy:
   type: ''
 #同步到七牛
-deploy:
+#deploy:
    type: qiniu
    accessKey: <accessKey>
    secretKey: <secretKey>
