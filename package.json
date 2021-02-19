@@ -33,6 +33,9 @@
     "hexo-renderer-marked": "^2.0.0",
     "hexo-autonofollow": "^1.0.0",
     "hexo-pdf": "^1.1.1",
+    "hexo-tag-instagram": "^1.1.0",
+    "hexo-native-lazy-load": "^1.1.2",
+    "hexo-deployer-qiniucloud2": "^1.0.14",
     "hexo-generator-json-content": "^2.2.0",
     "hexo-generator-search": "^2.4.1",
     "hexo-server": "^1.0.0"
