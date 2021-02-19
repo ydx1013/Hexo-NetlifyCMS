@@ -392,13 +392,13 @@ header .side-nav .social-link {
     padding: 0 12px;
 }
 
-.cover-btns {
+#.cover-btns {
     position: relative;
     top: 0vh;
     text-align: center;
 }
 
-.cover-btns a {
+#.cover-btns a {
     margin: 10px 15px;
     padding: 0 35px;
     height: 45px;
