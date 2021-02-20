@@ -25,9 +25,9 @@
         font-size: 1rem;
     }
     .bg-cover .title {
-        font-size: 2rem;
+        font-size: 1rem;
         font-weight: 700;
-        line-height: 1.85em;
+        line-height: 1em;
         margin-bottom: 10px;
         position: relative;
     }
