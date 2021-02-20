@@ -33,6 +33,7 @@
     "hexo-renderer-marked": "^2.0.0",
     "hexo-autonofollow": "^1.0.0",
     "hexo-pdf": "^1.1.1",
+    "hexo-lazyload-image-better": "^1.1.4",
     "hexo-tag-instagram": "^1.1.0",
     "hexo-all-minifier": "^0.5.5",
     "hexo-generator-json-content": "^2.2.0",
