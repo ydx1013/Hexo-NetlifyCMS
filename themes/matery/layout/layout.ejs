@@ -81,7 +81,13 @@
         daovoice('update');
     </script>
     <% } %>
-
+<script type="text/javascript">
+//只在桌面版网页启用特效
+var windowWidth = $(window).width();
+if (windowWidth > 768) {
+    document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
+}
+</script>
     <!--腾讯兔小巢-->
     <% if (theme.tuxiaochao.enable) { %>
         <div style="position:fixed;bottom:125px;right:16px;cursor: pointer;">
