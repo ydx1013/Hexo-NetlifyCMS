@@ -290,13 +290,13 @@ header nav .brand-span {
 }
 
 header .brand-logo .logo-img {
-    height: 45px;
+    height: 35px;
     vertical-align: middle;
     padding-bottom: 6px;
 }
 
 header .brand-logo .logo-span {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 /*修改顶部 logo 的文字垂直对齐为 top，避免默认 middle 看起来偏下*/
@@ -305,7 +305,7 @@ header .brand-logo .waves-effect {
 }
 
 header .button-collapse i {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 header .side-nav .mobile-head {
@@ -321,7 +321,7 @@ header .side-nav .mobile-head img {
 header .side-nav .mobile-head .logo-name {
     margin-top: -30px;
     padding-left: 10px;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 header .side-nav .mobile-head .logo-desc {
