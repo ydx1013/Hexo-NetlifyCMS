@@ -117,4 +117,4 @@ lazyload:
   post:
      only: true
      excludeEncrypt: true
-  loadingImg: /images/loading.gif
+  loadingImg: /medias/loading.gif
