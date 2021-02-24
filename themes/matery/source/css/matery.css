@@ -2159,8 +2159,8 @@ footer .copy-right {
 }
 .sideBar .tips {
 	position:absolute;
-	height:120px;
-	line-height:25px;
+	
+	line-height:34px;
 	background-color:#eea236;
 	width:40px;
 	left:-40px;
@@ -2179,7 +2179,7 @@ footer .copy-right {
 	margin:0;
 }
 .sideBar .list>li {
-	padding:15px;
+	padding:8px;
 	border-top:#eea236 dashed 1px;
 }
 .sideBar .list>li:hover {
