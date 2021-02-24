@@ -2162,7 +2162,7 @@ footer .copy-right {
 	background-color:#eea236;
 	width:30px;
 	left:-30px;
-	top:50px;
+	top:250px;
 	text-align:center;
 	box-sizing:border-box;
 	padding:10px 10px;
@@ -2174,7 +2174,7 @@ footer .copy-right {
 .sideBar .list {
 	padding:0;
 	list-style:none;
-	width:80px;
+	width:180px;
 	margin:0;
 }
 .sideBar .list>li {
