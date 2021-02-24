@@ -2142,8 +2142,10 @@ footer .copy-right {
 }
 .sideBar {
 	position:fixed;
-	right:-182px;
-	top:50px;
+	right:-102px;
+	width:100px;
+	
+	bottom:50px;
 	background-color:#ffffff;
 	border:#eea236 solid 1px;
 	transition:right 0.5s;
@@ -2162,7 +2164,6 @@ footer .copy-right {
 	background-color:#eea236;
 	width:30px;
 	left:-30px;
-	top:250px;
 	text-align:center;
 	box-sizing:border-box;
 	padding:10px 10px;
