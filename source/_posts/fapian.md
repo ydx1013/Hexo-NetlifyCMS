@@ -5,6 +5,8 @@ tags: [发片,接发]
 toc: false
 
 ---
+
+![颜色对比.jpeg](/image/pP0FKX.jpeg)
 本公司各种接发贴片，常年现货，多种颜色长度可选，详询店主。
 
 百分百保证全真发，下水不打结，头发自然色，微微发黄，需要染黑的请提前告知。
@@ -38,7 +40,7 @@ toc: false
 ![贴片对比.jpeg](/image/jzZK4c.jpeg)
 ![发片 夹片.jpeg](/image/R8GkLH.jpeg)
 ![发尾细节对比.jpeg](/image/Mu4snj.jpeg)
-![颜色对比.jpeg](/image/pP0FKX.jpeg)
+
 ![实物对比.jpeg](/image/iCGGUf.jpeg)
 
 
