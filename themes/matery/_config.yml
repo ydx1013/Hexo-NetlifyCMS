@@ -5,10 +5,10 @@ menu:
     url: /
     icon: fas fa-home
   接发专区:
-    url: /
+    url: /tags/甩发/
     icon: fas fa-bullhorn
   假发专区:
-    url: /
+    url: /tags/假发/
     icon: fas fa-briefcase
   淘宝店铺:
     url: taobao.com
