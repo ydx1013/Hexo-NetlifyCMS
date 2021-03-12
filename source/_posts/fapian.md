@@ -15,18 +15,18 @@ tags: [发片,接发]
 | 65厘米 | 现货   | 现货   | 订货   |
 | 70厘米 | 现货   | 现货   | 订货   |
 
-![一束.jpeg](/image/loxorG.jpeg)
-![三束.jpeg](/image/fnqEsh.jpeg)
-![一束 20支.jpeg](/image/GyUFNe.jpeg)
-![发片长度对比.jpeg](/image/YNDUqv.jpeg)
-![发量对比.jpeg](/image/t9Btni.jpeg)
-![一把 长度对比.jpeg](/image/XX0xZt.jpeg)
-![发片 夹片.jpeg](/image/ZHPMxf.jpeg)
-![贴片对比.jpeg](/image/NUSIpS.jpeg)
-![发尾细节.jpeg](/image/zBfJgW.jpeg)
-![颜色细节.jpeg](/image/vdWFv7.jpeg)
-![发尾细节对比.jpeg](/image/1RHdld.jpeg)
-![颜色对比.jpeg](/image/YqFuxH.jpeg)
-![实物对比.jpeg](/image/2SBkSp.jpeg)
+![三束.jpeg](/image/rcrKnh.jpeg)
+![一束.jpeg](/image/0qxRqa.jpeg)
+![一束 20支.jpeg](/image/67WvGD.jpeg)
+![发片 夹片.jpeg](/image/R8GkLH.jpeg)
+![发片长度对比.jpeg](/image/I1t9ql.jpeg)
+![发量对比.jpeg](/image/tsbQ9b.jpeg)
+![一把 长度对比.jpeg](/image/nPQXTr.jpeg)
+![发尾细节对比.jpeg](/image/Mu4snj.jpeg)
+![颜色对比.jpeg](/image/pP0FKX.jpeg)
+![实物对比.jpeg](/image/iCGGUf.jpeg)
+![贴片对比.jpeg](/image/jzZK4c.jpeg)
+![发尾细节.jpeg](/image/yb5coj.jpeg)
+![颜色细节.jpeg](/image/Oa7w0t.jpeg)
 
 
