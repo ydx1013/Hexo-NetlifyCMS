@@ -5,7 +5,7 @@ menu:
     url: /
     icon: fas fa-home
   接发专区:
-    url: /tags/甩发/
+    url: /tags/接发/
     icon: fas fa-bullhorn
   假发专区:
     url: /tags/假发/
