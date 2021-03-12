@@ -1,6 +1,8 @@
 ---
+
 title: 接发发片
-Tages: [发片, 接发]
+tags: [发片,接发]
+
 ---
 
 |        | 自然色 | 四度色 | 六度色 |
@@ -13,4 +15,17 @@ Tages: [发片, 接发]
 | 65厘米 | 现货   | 现货   | 订货   |
 | 70厘米 | 现货   | 现货   | 订货   |
 
-!%5B%E4%B8%80%E6%9D%9F.jpeg%5D(%2Fimage%2F%E4%B8%80%E6%9D%9FloxorG.jpeg)%0A!%5B%E4%B8%89%E6%9D%9F.jpeg%5D(%2Fimage%2F%E4%B8%89%E6%9D%9FfnqEsh.jpeg)%0A!%5B%E4%B8%80%E6%9D%9F%2020%E6%94%AF.jpeg%5D(%2Fimage%2F%E4%B8%80%E6%9D%9F%2020%E6%94%AFGyUFNe.jpeg)%0A!%5B%E5%8F%91%E7%89%87%E9%95%BF%E5%BA%A6%E5%AF%B9%E6%AF%94.jpeg%5D(%2Fimage%2F%E5%8F%91%E7%89%87%E9%95%BF%E5%BA%A6%E5%AF%B9%E6%AF%94YNDUqv.jpeg)%0A!%5B%E5%8F%91%E9%87%8F%E5%AF%B9%E6%AF%94.jpeg%5D(%2Fimage%2F%E5%8F%91%E9%87%8F%E5%AF%B9%E6%AF%94t9Btni.jpeg)%0A!%5B%E4%B8%80%E6%8A%8A%20%E9%95%BF%E5%BA%A6%E5%AF%B9%E6%AF%94.jpeg%5D(%2Fimage%2F%E4%B8%80%E6%8A%8A%2520%E9%95%BF%E5%BA%A6%E5%AF%B9%E6%AF%94XX0xZt.jpeg)%0A!%5B%E5%8F%91%E7%89%87%20%E5%A4%B9%E7%89%87.jpeg%5D(%2Fimage%2F%E5%8F%91%E7%89%87%2520%E5%A4%B9%E7%89%87ZHPMxf.jpeg)%0A!%5B%E8%B4%B4%E7%89%87%E5%AF%B9%E6%AF%94.jpeg%5D(%2Fimage%2F%E8%B4%B4%E7%89%87%E5%AF%B9%E6%AF%94NUSIpS.jpeg)%0A!%5B%E5%8F%91%E5%B0%BE%E7%BB%86%E8%8A%82.jpeg%5D(%2Fimage%2F%E5%8F%91%E5%B0%BE%E7%BB%86%E8%8A%82zBfJgW.jpeg)%0A!%5B%E9%A2%9C%E8%89%B2%E7%BB%86%E8%8A%82.jpeg%5D(%2Fimage%2F%E9%A2%9C%E8%89%B2%E7%BB%86%E8%8A%82vdWFv7.jpeg)%0A!%5B%E5%8F%91%E5%B0%BE%E7%BB%86%E8%8A%82%E5%AF%B9%E6%AF%94.jpeg%5D(%2Fimage%2F%E5%8F%91%E5%B0%BE%E7%BB%86%E8%8A%82%E5%AF%B9%E6%AF%941RHdld.jpeg)%0A!%5B%E9%A2%9C%E8%89%B2%E5%AF%B9%E6%AF%94.jpeg%5D(%2Fimage%2F%E9%A2%9C%E8%89%B2%E5%AF%B9%E6%AF%94YqFuxH.jpeg)%0A!%5B%E5%AE%9E%E7%89%A9%E5%AF%B9%E6%AF%94.jpeg%5D(%2Fimage%2F%E5%AE%9E%E7%89%A9%E5%AF%B9%E6%AF%942SBkSp.jpeg)%0A
+![一束.jpeg](/image/%E4%B8%80%E6%9D%9FloxorG.jpeg)
+![三束.jpeg](/image/三束fnqEsh.jpeg)
+![一束 20支.jpeg](/image/一束 20支GyUFNe.jpeg)
+![发片长度对比.jpeg](/image/发片长度对比YNDUqv.jpeg)
+![发量对比.jpeg](/image/发量对比t9Btni.jpeg)
+![一把 长度对比.jpeg](/image/一把%20长度对比XX0xZt.jpeg)
+![发片 夹片.jpeg](/image/发片%20夹片ZHPMxf.jpeg)
+![贴片对比.jpeg](/image/贴片对比NUSIpS.jpeg)
+![发尾细节.jpeg](/image/发尾细节zBfJgW.jpeg)
+![颜色细节.jpeg](/image/颜色细节vdWFv7.jpeg)
+![发尾细节对比.jpeg](/image/发尾细节对比1RHdld.jpeg)
+![颜色对比.jpeg](/image/颜色对比YqFuxH.jpeg)
+![实物对比.jpeg](/image/实物对比2SBkSp.jpeg)
+
