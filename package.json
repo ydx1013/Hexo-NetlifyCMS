@@ -39,7 +39,9 @@
     "hexo-all-minifier": "^0.5.5",
     "hexo-generator-json-content": "^2.2.0",
     "hexo-generator-search": "^2.4.1",
+    "hexo-filter-links": "^1.0.6",
     "hexo-server": "^1.0.0"
+    
     
   },
   "prettier": {
