@@ -24,7 +24,14 @@ permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
-
+# 外链转内链插件
+links:
+  enable: true
+  field: 'site'
+  exclude:
+    - 'exclude1.com'
+    - 'exclude2.com'
+    - '*.exclude3.com' #need version >= 1.0.4
 # Directory
 source_dir: source
 public_dir: public
