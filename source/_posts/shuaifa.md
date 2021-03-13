@@ -27,6 +27,11 @@ featureImages: false
 
 ![甩发](/image/20190429_113050v2VPXy.jpeg)
 ![甩发](/image/20190515_110350zOfc8Y.jpeg)
+![IMG_0525.jpeg](/image/oZXou5.jpeg)
+
+![甩发对比.jpeg](/image/KV8KxC.jpeg)
+![甩发细节.jpeg](/image/oFe4MH.jpeg)
+![甩发模特.jpeg](/image/NSbbVp.jpeg)
 ![甩发](/image/20190515_110417dHnZJb.jpeg)
 ![甩发](/image/20190617_152955ArRUXu.jpeg)
 ![甩发](/image/mmexport1526444304181RNYbCY.jpeg)
