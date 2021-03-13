@@ -14,7 +14,7 @@ toc: false
 | 70厘米 | 现货   | 现货   | 现货   |
 
 <video src="/image/08uyl-595bo.mp4"</video>
-<video id="video" controls="" preload="none" poster="/image/Fg68NS.jpeg"><source id="mp4" src="/image/08uyl-595bo.mp4" type="video/mp4"></video>
+<video id="video"><source id="mp4" src="/image/08uyl-595bo.mp4" type="video/mp4"></video>
 
 ![IMG_0446.jpeg](/image/Fg68NS.jpeg)
 ![发片源文件.jpeg](/image/q2uwch.jpeg)
