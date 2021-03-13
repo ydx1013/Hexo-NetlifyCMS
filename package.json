@@ -19,10 +19,10 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "4.2.1"
+    "version": "4.0.0"
   },
   "dependencies": {
-    "hexo": "^4.2.1",
+    "hexo": "^4.0.0",
     "hexo-renderer-scss": "^1..0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
