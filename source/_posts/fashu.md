@@ -13,7 +13,10 @@ toc: false
 | 65厘米 | 现货   | 现货   | 现货   |
 | 70厘米 | 现货   | 现货   | 现货   |
 
+<video src="/image/08uyl-595bo.mp4" </video>
 
+
+![IMG_0446.jpeg](/image/Fg68NS.jpeg)
 ![发片源文件.jpeg](/image/q2uwch.jpeg)
 ![发束.jpeg](/image/d2Cnis.jpeg)
 ![发束长度对比.jpeg](/image/m9yyTk.jpeg)
