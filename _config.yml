@@ -4,7 +4,10 @@
 # theme
 theme: matery
 
-
+permalink: posts/:abbrlink.html
+abbrlink:
+  alg: crc16  # 算法：crc16(default) and crc32
+  rep: hex    # 进制：dec(default) and hex
 # Site
 title: 瑞霖发制品有限公司
 subtitle: ''
