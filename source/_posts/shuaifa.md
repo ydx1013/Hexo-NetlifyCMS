@@ -4,7 +4,7 @@
 title: 戏曲甩发
 tags: [甩发,戏曲用品]
 toc: false
-img: /image/NSbbVp.jpeg
+img: /image/20190429_113050v2VPXy.jpeg
 
 ---
 专业戏曲甩发头套，常年**现货85—95厘米**，其他长度一般需订做，详询店主。
