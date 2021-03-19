@@ -2,6 +2,7 @@
 title: 接发发束
 tags: [发束,接发]
 toc: false
+img: /image/Fg68NS.jpeg
 
 ---
 本公司各种接发产品，**常年现货**，多种颜色长度可选，详询店主。
@@ -13,7 +14,7 @@ toc: false
 本店还售有各类假发接发用品、工具等。
 
 **欢迎新老客户前来洽谈！！！**
-** [淘宝店铺](https://shop128750684.taobao.com)
+# [淘宝店铺](https://shop128750684.taobao.com)
 
 
 ## 关于接发
