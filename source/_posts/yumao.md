@@ -3,6 +3,7 @@
 title: 羽毛接发
 tags: [羽毛,接发]
 toc: false
+img: /image/T3D3UG.jpeg
 
 ---
 
