@@ -3,6 +3,7 @@
 title: 羽毛接发
 tags: [发片,接发]
 toc: false
+img: /image/wUVgnF.jpeg
 
 ---
 
