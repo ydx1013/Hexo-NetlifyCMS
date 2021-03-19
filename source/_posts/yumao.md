@@ -1,14 +1,13 @@
 ---
 
-title: 无痕接发
-tags: [无痕,接发]
+title: 羽毛接发
+tags: [发片,接发]
 toc: false
-img: /image/ePoHsh.jpeg
 
 ---
 
 
-无痕接发，多种颜色长度可选，详询店主。
+羽毛接发，常年现货，多种颜色长度可选，详询店主。
 
 百分百保证全真发，下水不打结，头发自然色，微微发黄，需要染黑的请提前告知。
 
@@ -49,15 +48,15 @@ img: /image/ePoHsh.jpeg
 | 70厘米 | 现货   | 现货   | 订货   |
 
 
-![IMG_0584.jpeg](/image/ePoHsh.jpeg)
-![IMG_0579.jpeg](/image/uKVgDK.jpeg)
-![IMG_0581.jpeg](/image/cBdZ4e.jpeg)
-![IMG_0584.jpeg](/image/ePoHsh.jpeg)
-![IMG_0582.jpeg](/image/DZCBC7.jpeg)
-![IMG_0585.jpeg](/image/d0pcCj.jpeg)
-![IMG_0586.jpeg](/image/T3D3UG.jpeg)
-![IMG_0583.jpeg](/image/G3M2jk.jpeg)
+
+
+![IMG_4471.jpeg](/image/6pVBIP.jpeg)
+
+![IMG_0572.jpeg](/image/m3fhzC.jpeg)
+![IMG_0573.jpeg](/image/qqzVxv.jpeg)
+
+![IMG_0575.jpeg](/image/BZ9JOK.jpeg)
+![IMG_0576.jpeg](/image/wUVgnF.jpeg)
+![IMG_0578.jpeg](/image/bXHjz9.jpeg)
+![IMG_0577.jpeg](/image/46uazD.jpeg)
 ![IMG_0577.jpeg](/image/address.jpg)
-
-
-
