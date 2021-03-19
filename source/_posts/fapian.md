@@ -3,6 +3,7 @@
 title: 接发贴片
 tags: [发片,接发]
 toc: false
+img: /image/iCGGUf.jpeg
 
 ---
 
