@@ -3,7 +3,7 @@
 title: 接发贴片
 tags: [发片,接发]
 toc: false
-img: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/iCGGUf.jpeg
+img: /image/iCGGUf.jpeg
 
 ---
 
@@ -49,20 +49,20 @@ img: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/iCGGUf.jpeg
 | 70厘米 | 现货   | 现货   | 订货   |
 
 
-![一束.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/0qxRqa.jpeg)
-![三束.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/rcrKnh.jpeg)
-![发片长度对比.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/I1t9ql.jpeg)
-![一束 20支.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/67WvGD.jpeg)
-![发量对比.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/tsbQ9b.jpeg)
-![一把 长度对比.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/nPQXTr.jpeg)
-![发尾细节.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/yb5coj.jpeg)
-![颜色细节.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Oa7w0t.jpeg)
-![颜色对比.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/pP0FKX.jpeg)
-![贴片对比.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/jzZK4c.jpeg)
-![发片 夹片.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/R8GkLH.jpeg)
-![发尾细节对比.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Mu4snj.jpeg)
+![一束.jpeg](/source/image/0qxRqa.jpeg)
+![三束.jpeg](/source/image/rcrKnh.jpeg)
+![发片长度对比.jpeg](/source/image/I1t9ql.jpeg)
+![一束 20支.jpeg](/source/image/67WvGD.jpeg)
+![发量对比.jpeg](/source/image/tsbQ9b.jpeg)
+![一把 长度对比.jpeg](/source/image/nPQXTr.jpeg)
+![发尾细节.jpeg](/source/image/yb5coj.jpeg)
+![颜色细节.jpeg](/source/image/Oa7w0t.jpeg)
+![颜色对比.jpeg](/source/image/pP0FKX.jpeg)
+![贴片对比.jpeg](/source/image/jzZK4c.jpeg)
+![发片 夹片.jpeg](/source/image/R8GkLH.jpeg)
+![发尾细节对比.jpeg](/source/image/Mu4snj.jpeg)
 
-![实物对比.jpeg](//cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/iCGGUf.jpeg)
+![实物对比.jpeg](/source/image/iCGGUf.jpeg)
 
 
 
