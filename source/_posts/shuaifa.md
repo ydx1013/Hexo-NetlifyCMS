@@ -2,7 +2,7 @@
 ---
 
 title: 戏曲甩发
-tags: [甩发,戏曲用品]
+tags: [甩发,戏曲用品,假发]
 toc: false
 img: /image/20190429_113050v2VPXy.jpeg
 
