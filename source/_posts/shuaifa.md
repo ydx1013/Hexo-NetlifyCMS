@@ -32,7 +32,7 @@ img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190429_11
 
 ![甩发对比.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/KV8KxC.jpeg)
 ![甩发细节.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/oFe4MH.jpeg)
-![甩发模特.jpeg](/image/NSbbVp.jpeg)
+![甩发模特.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/NSbbVp.jpeg)
 ![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190515_110417dHnZJb.jpeg)
 ![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190617_152955ArRUXu.jpeg)
 ![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/mmexport1526444304181RNYbCY.jpeg)
