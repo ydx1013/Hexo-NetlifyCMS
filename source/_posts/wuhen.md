@@ -49,15 +49,15 @@ img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/ePoHsh.jpeg
 | 70厘米 | 现货   | 现货   | 订货   |
 
 
-![IMG_0584.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/ePoHsh.jpeg)
-![IMG_0579.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/uKVgDK.jpeg)
-![IMG_0581.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/cBdZ4e.jpeg)
-![IMG_0584.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/ePoHsh.jpeg)
-![IMG_0582.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/DZCBC7.jpeg)
-![IMG_0585.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/d0pcCj.jpeg)
-![IMG_0586.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/T3D3UG.jpeg)
-![IMG_0583.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/G3M2jk.jpeg)
-![IMG_0577.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/address.jpg)
+![IMG_0584.jpeg](/image/ePoHsh.jpeg)
+![IMG_0579.jpeg](/image/uKVgDK.jpeg)
+![IMG_0581.jpeg](/image/cBdZ4e.jpeg)
+![IMG_0584.jpeg](/image/ePoHsh.jpeg)
+![IMG_0582.jpeg](/image/DZCBC7.jpeg)
+![IMG_0585.jpeg](/image/d0pcCj.jpeg)
+![IMG_0586.jpeg](/image/T3D3UG.jpeg)
+![IMG_0583.jpeg](/image/G3M2jk.jpeg)
+![IMG_0577.jpeg](/image/address.jpg)
 
 
 
