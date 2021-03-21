@@ -49,7 +49,7 @@ img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/iCGGUf.jpeg
 | 70厘米 | 现货   | 现货   | 订货   |
 
 
-
+![一束.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/0qxRqa.jpeg)
 ![三束.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/rcrKnh.jpeg)
 ![发片长度对比.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/I1t9ql.jpeg)
 ![一束 20支.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/67WvGD.jpeg)
