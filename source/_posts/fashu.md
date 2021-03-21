@@ -42,10 +42,10 @@ img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Fg68NS.jpeg
 
 {% mmedia "video" "src:https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/08uyl-595bo.mp4" "controls=controls" %}
 
-![IMG_0446.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Fg68NS.jpeg)
-![发片源文件.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/q2uwch.jpeg)
-![发束.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/d2Cnis.jpeg)
-![发束长度对比.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/m9yyTk.jpeg)
-![发束不同长度发尾对比.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/6qQXfp.jpeg)
-![发束颜色.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/sOYxRd.jpeg)
-![发束模特效果图.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/19ft70.jpeg)
+![IMG_0446.jpeg](/image/Fg68NS.jpeg)
+![发片源文件.jpeg](/image/q2uwch.jpeg)
+![发束.jpeg](/image/d2Cnis.jpeg)
+![发束长度对比.jpeg](/image/m9yyTk.jpeg)
+![发束不同长度发尾对比.jpeg](/image/6qQXfp.jpeg)
+![发束颜色.jpeg](/image/sOYxRd.jpeg)
+![发束模特效果图.jpeg](/image/19ft70.jpeg)
