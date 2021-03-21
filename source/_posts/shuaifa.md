@@ -26,16 +26,4 @@ img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190429_11
 本店还售有各类戏曲用品真发：**甩发，髯口，头套，真发片子，后尾英**。
 
 
-![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190429_113050v2VPXy.jpeg)
-![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190515_110350zOfc8Y.jpeg)
-![IMG_0525.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/oZXou5.jpeg)
 
-![甩发对比.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/KV8KxC.jpeg)
-![甩发细节.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/oFe4MH.jpeg)
-![甩发模特.jpeg](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/NSbbVp.jpeg)
-![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190515_110417dHnZJb.jpeg)
-![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190617_152955ArRUXu.jpeg)
-![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/mmexport1526444304181RNYbCY.jpeg)
-![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/mmexport1562028837206HLjQy7.jpeg)
-![甩发](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/mmexport1526444339539Po5UUR.jpeg)
-![20190516](https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190516_094136Rn8FFR.jpeg)
