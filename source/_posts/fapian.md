@@ -6,13 +6,6 @@ toc: false
 img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/iCGGUf.jpeg
 
 ---
-
-
-
-# [淘宝](https://shop128750684.taobao.com/) 
- 
-
-
 ![三束.jpeg](/image/rcrKnh.jpeg)
 ![发片长度对比.jpeg](/image/I1t9ql.jpeg)
 ![一束 20支.jpeg](/image/67WvGD.jpeg)

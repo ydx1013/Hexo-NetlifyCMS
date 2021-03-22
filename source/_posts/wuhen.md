@@ -6,11 +6,6 @@ toc: false
 img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/ePoHsh.jpeg
 
 ---
-
-
-
-# [淘宝店铺](https://shop128750684.taobao.com)
-
 ![IMG_0584.jpeg](/image/ePoHsh.jpeg)
 ![IMG_0579.jpeg](/image/uKVgDK.jpeg)
 ![IMG_0581.jpeg](/image/cBdZ4e.jpeg)

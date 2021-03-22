@@ -5,12 +5,6 @@ toc: false
 img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Fg68NS.jpeg
 
 ---
-
-# [淘宝店铺](https://shop128750684.taobao.com)
-
-
-
-
 {% mmedia "video" "src:https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/08uyl-595bo.mp4" "controls=controls" %}
 
 ![IMG_0446.jpeg](/image/Fg68NS.jpeg)

@@ -7,9 +7,6 @@ toc: false
 img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190429_113050v2VPXy.jpeg
 
 ---
-
-# [淘宝店铺](https://shop128750684.taobao.com)
-
 ![甩发](/image/20190429_113050v2VPXy.jpeg)
 ![甩发](/image/20190515_110350zOfc8Y.jpeg)
 ![IMG_0525.jpeg](/image/oZXou5.jpeg)
