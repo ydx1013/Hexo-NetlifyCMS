@@ -33,9 +33,6 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-renderer-marked": "^3.3.0",
     "hexo-autonofollow": "^1.0.0",
-    "hexo-filter-image": "^1.2.3",
-
-    
     "hexo-pdf": "^1.1.1",
     "hexo-lazyload-image-better": "^1.1.4",
     "hexo-tag-mmedia": "^1.1.6",
