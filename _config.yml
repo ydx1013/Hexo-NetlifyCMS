@@ -25,7 +25,10 @@ skip_render:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.rlhair.cn/
-root: /
+filter_image:
+  # 日志是否启用
+  log: true
+root: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/
 
 # 外链转内链插件
 links:
@@ -128,3 +131,4 @@ lazyload:
      only: true
      excludeEncrypt: true
   loadingImg: /medias/loading.gif
+  
