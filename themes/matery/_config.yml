@@ -19,6 +19,10 @@ menu:
 #  联系我们:
 #    url: /contact
 #    icon: fas fa-comments
+# Configure website favicon and LOGO
+# 配置网站favicon和网站LOGO
+favicon: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/favicon.png
+logo: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/favicon.png
 # CDN访问加速 
 # 第一次使用本功能，一定要先配置url，再`hexo cl && hexo g && hexo d`部署到GitHub的仓库，注意！必须是GitHub的仓库！
 # 如果必须要使用国内的coding或者gitee，可以采用双部署，同时将网站部署到两个仓库（其中一个必须是GitHub的仓库）
@@ -168,10 +172,7 @@ recommend:
   useConfig: false # 是否使用配置文件, 在 _data/recommends.json 下配置推荐文章, false则会走主题配置的 top 属性
   # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/recommends.json 移动到 my-blog/source/_data/下修改配置即可
 
-# Configure website favicon and LOGO
-# 配置网站favicon和网站LOGO
-favicon: /favicon.png
-logo: /medias/logo.png
+
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
