@@ -37,44 +37,44 @@ jsDelivr:
 # 注：jsdelivr可以自动帮你生成.min版的js和css，所以你在设置js及css路径中可以直接写.min.xxx
 libs:
   css:
-    matery: /themes/matery/source/css/matery.css
-    mycss: /themes/matery/source/css/my.css
-    fontAwesome: /themes/matery/source/libs/awesome/css/all.css # V5.11.1
-    materialize: /themes/matery/source/libs/materialize/materialize.min.css # 1.0.0
-    aos: /themes/matery/source/libs/aos/aos.css
-    animate: /themes/matery/source/libs/animate/animate.min.css # V3.5.1
-    lightgallery: /themes/matery/source/libs/lightGallery/css/lightgallery.min.css # V1.6.11
-    aplayer: /themes/matery/source/libs/aplayer/APlayer.min.css
-    dplayer: /themes/matery/source/libs/dplayer/DPlayer.min.css
-    gitalk: /themes/matery/source/libs/gitalk/gitalk.css
-    jqcloud: /themes/matery/source/libs/jqcloud/jqcloud.css
-    tocbot: /themes/matery/source/libs/tocbot/tocbot.css
-    prism: /themes/matery/source/libs/prism/prism.css
+    matery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/css/matery.css
+    mycss: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/css/my.css
+    fontAwesome: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/awesome/css/all.css # V5.11.1
+    materialize: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/materialize/materialize.min.css # 1.0.0
+    aos: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/aos/aos.css
+    animate: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/animate/animate.min.css # V3.5.1
+    lightgallery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/lightGallery/css/lightgallery.min.css # V1.6.11
+    aplayer: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/aplayer/APlayer.min.css
+    dplayer: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/dplayer/DPlayer.min.css
+    gitalk: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/gitalk/gitalk.css
+    jqcloud: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/jqcloud/jqcloud.css
+    tocbot: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/tocbot/tocbot.css
+    prism: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/prism/prism.css
   js:
-    matery: /themes/matery/source/js/matery.js
-    jquery: /themes/matery/source/libs/jquery/jquery.min.js
-    materialize: /themes/matery/source/libs/materialize/materialize.min.js # 1.0.0
-    masonry: /themes/matery/source/libs/masonry/masonry.pkgd.min.js # v4.0.0
-    aos: /themes/matery/source/libs/aos/aos.js
-    scrollProgress: /themes/matery/source/libs/scrollprogress/scrollProgress.min.js
-    lightgallery: /themes/matery/source/libs/lightGallery/js/lightgallery-all.min.js # V1.6.11
-    clicklove: /themes/matery/source/libs/others/clicklove.js
-    busuanzi: /themes/matery/source/libs/others/busuanzi.pure.mini.js
-    aplayer: /themes/matery/source/libs/aplayer/APlayer.min.js
-    dplayer: /themes/matery/source/libs/dplayer/DPlayer.min.js
-    crypto: /themes/matery/source/libs/cryptojs/crypto-js.min.js
-    echarts: /themes/matery/source/libs/echarts/echarts.min.js
-    gitalk: /themes/matery/source/libs/gitalk/gitalk.min.js
-    valine: /themes/matery/source/libs/valine/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
-    minivaline: /themes/matery/source/libs/minivaline/MiniValine.js # latest
-    twikoo: /themes/matery/source/libs/twikoo/twikoo.all.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js  默认为 /libs/twikoo/twikoo.all.min.js
-    jqcloud: /themes/matery/source/libs/jqcloud/jqcloud-1.0.4.min.js
-    tocbot: /themes/matery/source/libs/tocbot/tocbot.min.js
-    canvas_nest: /themes/matery/source/libs/background/canvas-nest.js
-    ribbon: /themes/matery/source/libs/background/ribbon.min.js
-    ribbonRefresh: /themes/matery/source/libs/background/ribbon-refresh.min.js
-    ribbon_dynamic: /themes/matery/source/libs/background/ribbon-dynamic.js
-    instantpage: /themes/matery/source/libs/instantpage/instantpage.js
+    matery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/js/matery.js
+    jquery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/jquery/jquery.min.js
+    materialize: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/materialize/materialize.min.js # 1.0.0
+    masonry: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/masonry/masonry.pkgd.min.js # v4.0.0
+    aos: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/aos/aos.js
+    scrollProgress: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/scrollprogress/scrollProgress.min.js
+    lightgallery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/lightGallery/js/lightgallery-all.min.js # V1.6.11
+    clicklove: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/others/clicklove.js
+    busuanzi: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/others/busuanzi.pure.mini.js
+    aplayer: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/aplayer/APlayer.min.js
+    dplayer: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/dplayer/DPlayer.min.js
+    crypto: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/cryptojs/crypto-js.min.js
+    echarts: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/echarts/echarts.min.js
+    gitalk: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/gitalk/gitalk.min.js
+    valine: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/valine/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
+    minivaline: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/minivaline/MiniValine.js # latest
+    twikoo: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/twikoo/twikoo.all.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js  默认为 /libs/twikoo/twikoo.all.min.js
+    jqcloud: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/jqcloud/jqcloud-1.0.4.min.js
+    tocbot: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/tocbot/tocbot.min.js
+    canvas_nest: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/background/canvas-nest.js
+    ribbon: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/background/ribbon.min.js
+    ribbonRefresh: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/background/ribbon-refresh.min.js
+    ribbon_dynamic: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/background/ribbon-dynamic.js
+    instantpage: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery//source/libs/instantpage/instantpage.js
     
   # 二级菜单写法如下
   #Medias:
