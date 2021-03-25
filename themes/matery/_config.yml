@@ -258,9 +258,9 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/logo.PNG
+  avatar: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/favicon.png
   career: 瑞霖发制品有限公司
-  introduction: 瑞霖发制品有限公司成立于2007年，公司专业生产中高档真人发和各种假发头套及配件，自主经营品牌，是集生产、销售为一体的品牌假发商贸出口公司，公司自成立以来，坚持质量第一、客户至上的宗旨，以品牌化管理为起点，以专业生产真人发接发为根基，凭借中国假发的优越平台，树立同行业的高起点，打造世界驰名商标，力求成为假发接发潮流领导者和质量的缔造者。
+  introduction: 瑞霖发制品有限公司成立于2007年，公司专业生产中高档真人发和各种假发头套及配件，自主经营品牌，是集生产、销售为一体的品牌假发商贸出口公司，公司自成立以来，坚持质量第一、客户至上的宗旨，以品牌化管理为起点，以专业生产真人发接发为根基，凭借中国假发的优越平台，树立同行业的高起点，打造世界驰名商标，力求成为假发接发潮流领导者和质量的缔造者。![一束.jpeg](/image/address.jpg)
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
