@@ -45,6 +45,7 @@
 </script>
 <% } else { %>
 <script>
-    $('.bg-cover').css('background-image', 'url(<%- theme.jsDelivr.url %><%- url_for('/themes/matery/source/medias/banner/4.jpg') %>)');
+    $('.bg-cover').css('background-image', 'url(<%- theme.jsDelivr.url %><%- url_for(theme.profile.backgroundcover) %>)');
 </script>
 <% } %>
+
