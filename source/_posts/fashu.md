@@ -7,9 +7,9 @@ top: True
 
 ---
 
-{% mmedia "video" "src:https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/webp/08uyl-595bo.mp4" "controls=controls" %}
+{% mmedia "video" "src:https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/08uyl-595bo.mp4" "controls=controls" %}
 
-![IMG_0446.jpeg.webp](/image/webp/webp/Fg68NS.jpeg.webp)
+![IMG_0446.jpeg.webp](/image/webp/Fg68NS.jpeg.webp)
 ![发片源文件.jpeg.webp](/image/webp/q2uwch.jpeg.webp)
 ![发束.jpeg.webp](/image/webp/d2Cnis.jpeg.webp)
 ![发束长度对比.jpeg.webp](/image/webp/m9yyTk.jpeg.webp)
