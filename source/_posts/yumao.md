@@ -3,22 +3,22 @@
 title: 羽毛接发
 tags: [羽毛,接发]
 toc: false
-img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/wUVgnF.jpeg
+img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/webp/wUVgnF.jpeg.webp
 top: True
 
 ---
-![IMG_0578.jpeg](/image/bXHjz9.jpeg)
-![IMG_0577.jpeg](/image/46uazD.jpeg)
+![IMG_0578.jpeg.webp](/image/webp/bXHjz9.jpeg.webp)
+![IMG_0577.jpeg.webp](/image/webp/46uazD.jpeg.webp)
 
 
 
-![IMG_0572.jpeg](/image/m3fhzC.jpeg)
-![IMG_0573.jpeg](/image/qqzVxv.jpeg)
+![IMG_0572.jpeg.webp](/image/webp/m3fhzC.jpeg.webp)
+![IMG_0573.jpeg.webp](/image/webp/qqzVxv.jpeg.webp)
 
-![IMG_0575.jpeg](/image/BZ9JOK.jpeg)
-![IMG_0576.jpeg](/image/wUVgnF.jpeg)
+![IMG_0575.jpeg.webp](/image/webp/BZ9JOK.jpeg.webp)
+![IMG_0576.jpeg.webp](/image/webp/wUVgnF.jpeg.webp)
 
-![IMG_0577.jpeg](/image/address.jpg)
+![IMG_0577.jpeg.webp](/image/webp/address.jpg)
 
 
 

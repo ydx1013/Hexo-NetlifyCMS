@@ -2,17 +2,17 @@
 title: 接发发束
 tags: [发束,接发]
 toc: false
-img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Fg68NS.jpeg
+img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/webp/Fg68NS.jpeg.webp
 top: True
 
 ---
 
-{% mmedia "video" "src:https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/08uyl-595bo.mp4" "controls=controls" %}
+{% mmedia "video" "src:https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/webp/08uyl-595bo.mp4" "controls=controls" %}
 
-![IMG_0446.jpeg](/image/Fg68NS.jpeg)
-![发片源文件.jpeg](/image/q2uwch.jpeg)
-![发束.jpeg](/image/d2Cnis.jpeg)
-![发束长度对比.jpeg](/image/m9yyTk.jpeg)
-![发束不同长度发尾对比.jpeg](/image/6qQXfp.jpeg)
-![发束颜色.jpeg](/image/sOYxRd.jpeg)
-![发束模特效果图.jpeg](/image/19ft70.jpeg)
+![IMG_0446.jpeg.webp](/image/webp/webp/Fg68NS.jpeg.webp)
+![发片源文件.jpeg.webp](/image/webp/q2uwch.jpeg.webp)
+![发束.jpeg.webp](/image/webp/d2Cnis.jpeg.webp)
+![发束长度对比.jpeg.webp](/image/webp/m9yyTk.jpeg.webp)
+![发束不同长度发尾对比.jpeg.webp](/image/webp/6qQXfp.jpeg.webp)
+![发束颜色.jpeg.webp](/image/webp/sOYxRd.jpeg.webp)
+![发束模特效果图.jpeg.webp](/image/webp/19ft70.jpeg.webp)
