@@ -45,7 +45,7 @@ libs:
     mycss: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/css/my.css
     fontAwesome: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/awesome/css/all.css # V5.11.1
     materialize: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/materialize/materialize.min.css # 1.0.0
-    aos: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/aos/aos.css
+    #aos: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/aos/aos.css
     animate: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/animate/animate.min.css # V3.5.1
     lightgallery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/lightGallery/css/lightgallery.min.css # V1.6.11
     aplayer: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/aplayer/APlayer.min.css
@@ -59,7 +59,7 @@ libs:
     jquery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/jquery/jquery.min.js
     materialize: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/materialize/materialize.min.js # 1.0.0
     masonry: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/masonry/masonry.pkgd.min.js # v4.0.0
-    aos: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/aos/aos.js
+    #aos: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/aos/aos.js
     scrollProgress: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/scrollprogress/scrollProgress.min.js
     lightgallery: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/lightGallery/js/lightgallery-all.min.js # V1.6.11
     clicklove: //cdn.jsdelivr.net/gh/ydx1013/ruilin-company/themes/matery/source/libs/others/clicklove.js
