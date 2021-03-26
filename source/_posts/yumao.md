@@ -3,7 +3,7 @@
 title: 羽毛接发
 tags: [羽毛,接发]
 toc: false
-img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/wUVgnF.jpeg
+img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/wUVgnF.jpg
 top: True
 
 ---

@@ -2,7 +2,8 @@
 title: 接发发束
 tags: [发束,接发]
 toc: false
-img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Fg68NS.jpeg
+img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/Fg68NS-s.jpg
+
 top: True
 
 ---

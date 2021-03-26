@@ -3,7 +3,7 @@
 title: 无痕纳米贴片
 tags: [发片,接发]
 toc: false
-img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/iCGGUf.jpeg
+img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/19ft70-s.jpg
 top: True
 
 ---

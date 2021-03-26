@@ -3,7 +3,7 @@
 title: 无痕卡子发
 tags: [无痕,接发]
 toc: false
-img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/ePoHsh.jpeg
+img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/T3D3UG.jpg
 top: True
 
 ---

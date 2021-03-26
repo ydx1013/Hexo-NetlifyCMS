@@ -4,7 +4,7 @@
 title: 戏曲甩发
 tags: [甩发,戏曲用品,假发]
 toc: false
-img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190429_113050v2VPXy.jpeg
+img: https://cdn.jsdelivr.net/gh/ydx1013/ruilin-company/source/image/20190429_113050v2VPXy.jpg
 
 ---
 ![甩发](/image/20190429_113050v2VPXy.jpeg)
