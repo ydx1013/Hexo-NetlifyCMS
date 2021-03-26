@@ -65,6 +65,8 @@ $(function () {
     AOS.init({
         easing: 'ease-in-out-sine',
         duration: 600,
+        offset: 0,
+        disable: window.innerWidth < 102400,
         delay: 100
     });
 
